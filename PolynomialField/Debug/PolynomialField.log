@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\ktozt\onedrive\dokumenty\visual studio 2017\projects\polynomialfield\polynomialfield\main.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\ktozt\onedrive\dokumenty\visual studio 2017\projects\polynomialfield\polynomialfield\main.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\ktozt\onedrive\dokumenty\visual studio 2017\projects\polynomialfield\polynomialfield\main.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\ktozt\onedrive\dokumenty\visual studio 2017\projects\polynomialfield\polynomialfield\main.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\ktozt\onedrive\dokumenty\visual studio 2017\projects\polynomialfield\polynomialfield\main.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\ktozt\onedrive\dokumenty\visual studio 2017\projects\polynomialfield\polynomialfield\main.cpp(94): warning C4018: '<': signed/unsigned mismatch
+  PolynomialField.vcxproj -> c:\Users\ktozt\OneDrive\Dokumenty\Visual Studio 2017\Projects\PolynomialField\Debug\PolynomialField.exe
+  PolynomialField.vcxproj -> c:\Users\ktozt\OneDrive\Dokumenty\Visual Studio 2017\Projects\PolynomialField\Debug\PolynomialField.pdb (Partial PDB)

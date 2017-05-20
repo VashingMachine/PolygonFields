@@ -1,0 +1,4 @@
+Area: 2.5
+Order in polygon: 
+H->B->E->A->F->D->C->4 8
+-----Execution time: 0.01651620864868164 -----
